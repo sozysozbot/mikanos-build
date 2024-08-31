@@ -7,7 +7,7 @@
         name:
           - build-essential
           - llvm-14-dev
-          - lld-14
+          - lld-7
           - clang-14
           - nasm
           - acpica-tools
